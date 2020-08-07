@@ -1,4 +1,4 @@
-<p align="center"><a href="https://visrey.me" target="_blank" rel="noopener noreferrer"><img src="https://github.com/visrey/visrey/raw/master/visreygif.gif" alt="re-frame logo"></a></p>
+<p align="center"><a href="https://visrey.me" target="_blank" rel="noopener noreferrer"><img src="https://github.com/visrey/visrey/raw/master/visrey.gif" alt="re-frame logo"></a></p>
 
 ### Hello World!....
 ### About myself
