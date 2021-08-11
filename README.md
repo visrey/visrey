@@ -4,9 +4,9 @@
 ### About myself
 | About | Detail |  |
 | ------ | ------ | ------ |
-|🔐 I'm currently working| for a Cyber Security Company. |:trident:|
-|📚 I'm currently learning| things related to project management and flutter. |:recycle:|
-|🛠️ I'm looking to| collaborate on some intresting projects. |:white_check_mark:|
+|🔐 I'm currently working| for a Interesting Company. |:trident:|
+|📚 I'm currently learning| things related to trading, project management and flutter. |:recycle:|
+|🛠️ I'm looking to| collaborate on some intresting community projects. |:white_check_mark:|
 |💬 Ask me about| any solutions, reviews, suggestions and consultations. |:white_check_mark:|
 |📫 How to reach me:| me[at]visrey[dot]me.|:white_check_mark:|
 |⚡ Fun fact:| I'm up for casual conversations. Want to travel around world :airplane:|:white_check_mark:|
@@ -20,7 +20,7 @@
 | ------ | ------ | ------ |
 |AJX|Peer to Peer Anonymous File Transfer and Communcation|:x:|
 |CVD|Covid Dashboard in Angular. [cvd.visrey.me](https://cvd.visrey.me)|:white_check_mark:|
-|Screen Recorder|Ad-hoc Screen recorded|:x:|
+|Screen Recorder|Ad-hoc Screen recorder using webrtc|:x:|
 |Awekn|Curated list of documentaries and Articles. [awekn.com](https://awekn.com)|:white_check_mark:|
 
 <!--
