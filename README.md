@@ -18,7 +18,7 @@
 ## My Favourite Projects
 | Project Name | Link |Online|
 | ------ | ------ | ------ |
-|AJX|Peer to Peer Anonymous File Transfer and Communcation|:x:|
+|AJX|Peer to Peer Anonymous File Transfer and Communcation [ajx.io](https://ajx.io)|:white_check_mark:|
 |CVD|Covid Dashboard in Angular. [cvd.visrey.me](https://cvd.visrey.me)|:white_check_mark:|
 |Screen Recorder|Ad-hoc Screen recorder using webrtc|:x:|
 |Awekn|Curated list of documentaries and Articles. [awekn.com](https://awekn.com)|:white_check_mark:|
